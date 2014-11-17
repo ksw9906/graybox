@@ -5,6 +5,8 @@
 *.unityproj
 .DS_Store
 /Library/FailedAssetImports.txt
+/Library/*.dwlt
+/Library/expandedItems
 /Library/cache/
 /Library/previews/
 /Library/ScriptAssemblies
