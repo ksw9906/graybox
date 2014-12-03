@@ -6,15 +6,28 @@ ModelImporter:
     100000: pCylinder1
     100002: pSphere1
     100004: //RootNode
+    100006: group1
+    100008: group2
+    100010: group2 1
+    100012: transform1
+    100014: transform2
     400000: pCylinder1
     400002: pSphere1
     400004: //RootNode
+    400006: group1
+    400008: group2
+    400010: group2 1
+    400012: transform1
+    400014: transform2
     2300000: pCylinder1
     2300002: pSphere1
+    2300004: group2
     3300000: pCylinder1
     3300002: pSphere1
+    3300004: group2
     4300000: pSphere1
     4300002: pCylinder1
+    4300004: group2
     9500000: //RootNode
   materials:
     importMaterials: 1

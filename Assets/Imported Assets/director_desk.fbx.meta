@@ -8,11 +8,23 @@ ModelImporter:
     100004: pCube2
     100006: pCube3
     100008: pCube4
+    100010: group2
+    100012: pCube1 1
+    100014: transform1
+    100016: transform2
+    100018: transform3
+    100020: transform4
     400000: //RootNode
     400002: pCube1
     400004: pCube2
     400006: pCube3
     400008: pCube4
+    400010: group2
+    400012: pCube1 1
+    400014: transform1
+    400016: transform2
+    400018: transform3
+    400020: transform4
     2300000: pCube1
     2300002: pCube2
     2300004: pCube3
